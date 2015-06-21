@@ -16,5 +16,6 @@ Mostly for tab to 4 spaces to be PEP8
 
 A template python file that will allow for quick and easy organization. A start unitest section is at the bottom to allow for easy to start test writing.
 
+[Template Python File](https://raw.githubusercontent.com/ndanielsen/config/master/python/template.py)
 
 
