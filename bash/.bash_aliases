@@ -4,10 +4,10 @@
 
 
 
-# virtualenv
+# virtualenv enable wrapper
 . /usr/local/bin/virtualenvwrapper.sh
 
-
+# virtualenv aliases
 alias venv="workon"
 alias venv.exit="deactivate"
 alias venv.ls="lsvirtualenv"
