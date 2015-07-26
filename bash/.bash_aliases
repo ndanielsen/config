@@ -1,9 +1,13 @@
 ## ~/.bash_aliases file
- 
+
 # User specific aliases and functions
 
 
+
 # virtualenv
+. /usr/local/bin/virtualenvwrapper.sh
+
+
 alias venv="workon"
 alias venv.exit="deactivate"
 alias venv.ls="lsvirtualenv"
